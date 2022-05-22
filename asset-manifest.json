@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Delicious-RecipeApp/static/css/main.64cb8ed6.css",
+    "main.js": "/Delicious-RecipeApp/static/js/main.1e9a79a1.js",
+    "index.html": "/Delicious-RecipeApp/index.html",
+    "main.64cb8ed6.css.map": "/Delicious-RecipeApp/static/css/main.64cb8ed6.css.map",
+    "main.1e9a79a1.js.map": "/Delicious-RecipeApp/static/js/main.1e9a79a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64cb8ed6.css",
+    "static/js/main.1e9a79a1.js"
+  ]
+}
