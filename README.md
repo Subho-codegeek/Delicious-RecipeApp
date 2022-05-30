@@ -4,8 +4,12 @@
 
 ### Different Cuisine
 ![Cuisine1](/asset/image2.png)
-![Cuisine2](/asset/image3.png)
 
+### Instructions
+![Instructions](/asset/image3.png)
+
+### Ingridients
+![Ingredients](/asset/image4.png)
 
 # Getting Started with Create React App
 
